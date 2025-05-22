@@ -48,7 +48,7 @@
 
 ### 🚀 Projects in Progress
 
-- 🌐 Building a personal portfolio site with **Next.js** & **Tailwind CSS**
+- 🌐 Building a personal portfolio site with **Next.js**
 - 🛠️ Contributing to open-source **MERN stack** projects
 - 📘 Working on a blog engine using **Markdown**, **Next.js**, and **MongoDB**
 
@@ -61,6 +61,23 @@
 - ✅ Contribute to at least 3 open-source repositories
 
 ---
+
+---
+
+### 🧩 Projects
+
+#### 💬 Chatty – Real-Time One-on-One Chat App
+
+A simple and modern real-time **one-on-one chat** application built with the **MERN stack** and **Socket.IO**.
+
+- 🔐 User authentication  
+- 💬 One-on-one real-time messaging  
+- ⚡ Instant delivery using WebSockets  
+- 🌍 Built using React, Node.js, Express, MongoDB, and Socket.IO
+
+🔗 [Live Site](https://chatty-navy.vercel.app/)  
+📂 [GitHub Repository](https://github.com/kalyankashaboina/Chatty)
+
 
                                              
 
