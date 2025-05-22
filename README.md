@@ -24,10 +24,11 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="MUI"/>
+  <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
@@ -36,19 +37,21 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kalyankashaboina&show_icons=true&theme=react" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kalyankashaboina&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats"/>
   <br/>
-  <img src="https://streak-stats.demolab.com/?user=kalyankashaboina&theme=react" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=kalyankashaboina&theme=react&hide_border=true" alt="GitHub Streak"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalyankashaboina&layout=compact&theme=react&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
 
 ### 🚀 Projects in Progress
 
-- 🌐 Building a personal portfolio site with **Next.js**
+- 🌐 Building a personal portfolio site with **Next.js** and **MUI**
 - 🛠️ Contributing to open-source **MERN stack** projects
 - 📘 Working on a blog engine using **Markdown**, **Next.js**, and **MongoDB**
 
@@ -59,8 +62,6 @@
 - ✅ Master fullstack deployment with **Vercel** and **MongoDB Atlas**
 - ✅ Build 5+ real-world apps using **MERN + Next.js**
 - ✅ Contribute to at least 3 open-source repositories
-
----
 
 ---
 
@@ -78,10 +79,7 @@ A simple and modern real-time **one-on-one chat** application built with the **M
 🔗 [Live Site](https://chatty-navy.vercel.app/)  
 📂 [GitHub Repository](https://github.com/kalyankashaboina/Chatty)
 
-
-                                             
-
-
+---
 
 <!---
 kalyankashaboina/kalyankashaboina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
