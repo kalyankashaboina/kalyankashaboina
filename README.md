@@ -51,8 +51,7 @@
 
 ### 🚀 Projects in Progress
 
-- 🌐 Building a personal portfolio site with **Next.js** and **MUI**
-- 🛠️ Contributing to open-source **MERN stack** projects
+- 🛠️ Contributing to open-source **MERN stack** projects  
 - 📘 Working on a blog engine using **Markdown**, **Next.js**, and **MongoDB**
 
 ---
@@ -66,6 +65,20 @@
 ---
 
 ### 🧩 Projects
+
+#### 🌐 Personal Portfolio – Developer Portfolio Website
+
+A sleek and responsive personal portfolio built using **Next.js** and **MUI**, showcasing skills, projects, and contact information.
+
+- 📄 Dynamic sections: About, Projects, Skills, Contact  
+- 💻 Fully responsive and optimized for performance  
+- 🎨 Styled with **Material UI** and custom theming  
+- 🚀 Deployed on **Vercel**
+
+🔗 [Live Portfolio](https://kalyan-kashaboina-portfolio.vercel.app/)  
+📂 [GitHub Repository](https://github.com/kalyankashaboina/kalyan_kashaboina_portfolio)
+
+---
 
 #### 💬 Chatty – Real-Time One-on-One Chat App
 
