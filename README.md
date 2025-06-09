@@ -12,6 +12,7 @@
 
 - 👀 Passionate about **Software Development**, **Web Development**, and **Problem Solving**
 - 🌱 Currently learning **Fullstack Web Development (MERN Stack + Next.js)**
+- 🛠️ Currently learning **Winston** and **Datadog** for advanced logging and error monitoring in production environments
 - 💞️ Open to collaborating on **open-source projects** and real-world applications
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/kashaboina-kalyan-308495284/)
 - 😄 Pronouns: He/Him
@@ -91,6 +92,21 @@ A simple and modern real-time **one-on-one chat** application built with the **M
 
 🔗 [Live Site](https://chatty-navy.vercel.app/)  
 📂 [GitHub Repository](https://github.com/kalyankashaboina/Chatty)
+
+---
+
+#### 💰 FinTrackPro – Personal Finance Tracker
+
+A full-featured personal finance tracking app to manage income, expenses, and transactions securely and efficiently.
+
+- 🧾 Add, edit, and delete transactions  
+- 📊 Visual dashboards with category-wise breakdown  
+- 🔐 Secure authentication and protected routes  
+- ⚙️ Built using **MERN Stack**, styled with **Tailwindcss**  
+- 🌐 Deployed on **Vercel**
+
+🔗 [Live App](https://fintrackpro-three.vercel.app/login)  
+📂 [GitHub Repository](https://github.com/kalyankashaboina/FinTrackPro)
 
 ---
 
