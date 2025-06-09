@@ -12,7 +12,6 @@
 
 - 👀 Passionate about **Software Development**, **Web Development**, and **Problem Solving**
 - 🌱 Currently learning **Fullstack Web Development (MERN Stack + Next.js)**
-- 🛠️ Currently learning **Winston** and **Datadog** for advanced logging and error monitoring in production environments
 - 💞️ Open to collaborating on **open-source projects** and real-world applications
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/kashaboina-kalyan-308495284/)
 - 😄 Pronouns: He/Him
@@ -62,6 +61,9 @@
 - ✅ Master fullstack deployment with **Vercel** and **MongoDB Atlas**
 - ✅ Build 5+ real-world apps using **MERN + Next.js**
 - ✅ Contribute to at least 3 open-source repositories
+- 🚀 Learn and implement **Winston** & **Datadog** for logging and monitoring in production apps  
+- 🚀 Explore **NestJS** for scalable backend development
+
 
 ---
 
