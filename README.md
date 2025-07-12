@@ -10,6 +10,8 @@
 
 ### 👨‍💻 About Me
 
+Hi, I'm **Kalyan Kashaboina**, a passionate full-stack developer who loves building scalable, real-world applications. I'm particularly skilled in **MERN Stack**, **Next.js**, and always excited to explore new technologies like **AI/ML** and **FastAPI**.
+
 - 👀 Passionate about **Software Development**, **Web Development**, and **Problem Solving**
 - 🌱 Currently learning **Fullstack Web Development (MERN Stack + Next.js)**
 - 💞️ Open to collaborating on **open-source projects** and real-world applications
@@ -64,7 +66,6 @@
 - 🚀 Learn and implement **Winston** & **Datadog** for logging and monitoring in production apps  
 - 🚀 Explore **NestJS** for scalable backend development
 
-
 ---
 
 ### 🧩 Projects
@@ -109,6 +110,18 @@ A full-featured personal finance tracking app to manage income, expenses, and tr
 
 🔗 [Live App](https://fintrackpro-three.vercel.app/login)  
 📂 [GitHub Repository](https://github.com/kalyankashaboina/FinTrackPro)
+
+---
+
+### 🙋‍♂️ Who is Kalyan Kashaboina?
+
+I'm **Kalyan Kashaboina**, a full-stack MERN developer from India, building real-time, scalable web applications and exploring new tools like **NestJS**, **FastAPI**, and **AI/ML**.
+
+You can find me on:
+- GitHub: [kalyankashaboina](https://github.com/kalyankashaboina)
+- LinkedIn: [Kalyan Kashaboina](https://www.linkedin.com/in/kashaboina-kalyan-308495284/)
+
+Thanks for visiting my profile! 🚀
 
 ---
 
