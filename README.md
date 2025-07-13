@@ -1,23 +1,23 @@
-<h1 align="center">Hi 👋, I'm Kalyan Kashaboina</h1>
+<h1 align="center">Hi 👋, I'm Kalyan Kashaboina | Full Stack MERN Developer</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kashaboina-kalyan-308495284/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Kalyan%20Kashaboina-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Kalyan%20Kashaboina-blue?style=flat-square&logo=linkedin" alt="Kalyan Kashaboina on LinkedIn">
   </a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 About Kalyan Kashaboina
 
-Hi, I'm **Kalyan Kashaboina**, a passionate full-stack developer who loves building scalable, real-world applications. I'm particularly skilled in **MERN Stack**, **Next.js**, and always excited to explore new technologies like **AI/ML** and **FastAPI**.
+Hi, I'm **Kalyan Kashaboina**, a passionate **Full Stack Developer (MERN)** from India who loves building scalable, real-world applications. I work extensively with **React**, **Node.js**, **MongoDB**, and am exploring **Next.js**, **FastAPI**, and **AI/ML**.
 
-- 👀 Passionate about **Software Development**, **Web Development**, and **Problem Solving**
-- 🌱 Currently learning **Fullstack Web Development (MERN Stack + Next.js)**
-- 💞️ Open to collaborating on **open-source projects** and real-world applications
-- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/kashaboina-kalyan-308495284/)
+- 👀 Passionate about **Web Development**, **Software Engineering**, and **Problem Solving**
+- 🌱 Currently learning advanced fullstack with **MERN + Next.js**, **AI agents**, and **FastAPI**
+- 💞️ Open to collaborating on **open-source projects** and real-world startups
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/kashaboina-kalyan-308495284/)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love solving complex problems and exploring new technologies every day!
+- ⚡ Fun fact: I enjoy breaking complex problems into small solutions and love real-time apps!
 
 ---
 
@@ -26,7 +26,7 @@ Hi, I'm **Kalyan Kashaboina**, a passionate full-stack developer who loves build
 <p align="left">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="MUI"/>
+  <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI"/>
   <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
@@ -39,14 +39,14 @@ Hi, I'm **Kalyan Kashaboina**, a passionate full-stack developer who loves build
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats – Kalyan Kashaboina
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kalyankashaboina&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kalyankashaboina&show_icons=true&theme=react&hide_border=true" alt="Kalyan Kashaboina GitHub Stats"/>
   <br/>
-  <img src="https://streak-stats.demolab.com/?user=kalyankashaboina&theme=react&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=kalyankashaboina&theme=react&hide_border=true" alt="Kalyan Kashaboina GitHub Streak"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalyankashaboina&layout=compact&theme=react&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalyankashaboina&layout=compact&theme=react&hide_border=true" alt="Kalyan Kashaboina Top Languages"/>
 </p>
 
 ---
@@ -54,7 +54,8 @@ Hi, I'm **Kalyan Kashaboina**, a passionate full-stack developer who loves build
 ### 🚀 Projects in Progress
 
 - 🛠️ Contributing to open-source **MERN stack** projects  
-- 📘 Working on a blog engine using **Markdown**, **Next.js**, and **MongoDB**
+- 📘 Building a blog engine using **Markdown**, **Next.js**, and **MongoDB**  
+- 🔐 Working on a real-time chat system with **video/audio call** support
 
 ---
 
@@ -63,65 +64,67 @@ Hi, I'm **Kalyan Kashaboina**, a passionate full-stack developer who loves build
 - ✅ Master fullstack deployment with **Vercel** and **MongoDB Atlas**
 - ✅ Build 5+ real-world apps using **MERN + Next.js**
 - ✅ Contribute to at least 3 open-source repositories
-- 🚀 Learn and implement **Winston** & **Datadog** for logging and monitoring in production apps  
-- 🚀 Explore **NestJS** for scalable backend development
+- 🚀 Learn and implement **Winston**, **Datadog**, and **ELK** stack for logging
+- 🚀 Explore **NestJS** and **FastAPI** for scalable backend architectures
 
 ---
 
-### 🧩 Projects
+### 🧩 Projects by Kalyan Kashaboina
 
-#### 🌐 Personal Portfolio – Developer Portfolio Website
+#### 🌐 [Developer Portfolio Website](https://kalyan-kashaboina-portfolio.vercel.app/)
 
-A sleek and responsive personal portfolio built using **Next.js** and **MUI**, showcasing skills, projects, and contact information.
+Sleek and responsive portfolio built with **Next.js** and **Material UI**, showcasing skills, GitHub projects, and contact info.
 
-- 📄 Dynamic sections: About, Projects, Skills, Contact  
-- 💻 Fully responsive and optimized for performance  
-- 🎨 Styled with **Material UI** and custom theming  
-- 🚀 Deployed on **Vercel**
+- 💻 Fully responsive with custom theming  
+- 📄 Sections: About, Projects, Skills, Contact  
+- 🚀 Deployed on Vercel  
 
-🔗 [Live Portfolio](https://kalyan-kashaboina-portfolio.vercel.app/)  
-📂 [GitHub Repository](https://github.com/kalyankashaboina/kalyan_kashaboina_portfolio)
+📂 [GitHub Repo](https://github.com/kalyankashaboina/kalyan_kashaboina_portfolio)
 
 ---
 
-#### 💬 Chatty – Real-Time One-on-One Chat App
+#### 💬 [Chatty – Real-Time Chat App](https://chatty-navy.vercel.app/)
 
-A simple and modern real-time **one-on-one chat** application built with the **MERN stack** and **Socket.IO**.
+Real-time **one-on-one chat** built using **MERN stack** and **Socket.IO**.
 
-- 🔐 User authentication  
-- 💬 One-on-one real-time messaging  
-- ⚡ Instant delivery using WebSockets  
-- 🌍 Built using React, Node.js, Express, MongoDB, and Socket.IO
+- 🔐 Auth system  
+- ⚡ Instant messaging with WebSocket  
+- 💬 React, Node.js, Express, MongoDB  
 
-🔗 [Live Site](https://chatty-navy.vercel.app/)  
-📂 [GitHub Repository](https://github.com/kalyankashaboina/Chatty)
+📂 [GitHub Repo for Chatty](https://github.com/kalyankashaboina/Chatty)
 
 ---
 
-#### 💰 FinTrackPro – Personal Finance Tracker
+#### 💰 [FinTrackPro – Finance Tracker](https://fintrackpro-three.vercel.app/login)
 
-A full-featured personal finance tracking app to manage income, expenses, and transactions securely and efficiently.
+Personal finance tracker built with **MERN** and **Tailwind CSS**.
 
-- 🧾 Add, edit, and delete transactions  
-- 📊 Visual dashboards with category-wise breakdown  
-- 🔐 Secure authentication and protected routes  
-- ⚙️ Built using **MERN Stack**, styled with **Tailwindcss**  
-- 🌐 Deployed on **Vercel**
+- 🧾 Add/edit/delete transactions  
+- 📊 Dashboards and analytics  
+- 🔐 Secure with JWT auth  
+- 🚀 Hosted on Vercel  
 
-🔗 [Live App](https://fintrackpro-three.vercel.app/login)  
-📂 [GitHub Repository](https://github.com/kalyankashaboina/FinTrackPro)
+📂 [GitHub Repo for FinTrackPro](https://github.com/kalyankashaboina/FinTrackPro)
 
 ---
 
 ### 🙋‍♂️ Who is Kalyan Kashaboina?
 
-I'm **Kalyan Kashaboina**, a full-stack MERN developer from India, building real-time, scalable web applications and exploring new tools like **NestJS**, **FastAPI**, and **AI/ML**.
+I'm **Kalyan Kashaboina**, a Full Stack MERN Developer from India, passionate about real-time apps, DevOps, and building innovative web solutions.
 
-You can find me on:
-- GitHub: [kalyankashaboina](https://github.com/kalyankashaboina)
-- LinkedIn: [Kalyan Kashaboina](https://www.linkedin.com/in/kashaboina-kalyan-308495284/)
+🔗 Connect with me:
 
-Thanks for visiting my profile! 🚀
+- GitHub: [https://github.com/kalyankashaboina](https://github.com/kalyankashaboina)  
+- LinkedIn: [https://www.linkedin.com/in/kashaboina-kalyan-308495284/](https://www.linkedin.com/in/kashaboina-kalyan-308495284/)  
+- Email: kalyankashaboina007@gmail.com
+
+---
+
+### 🔎 Keywords (for search engines)
+
+```
+Kalyan Kashaboina GitHub | Full Stack Developer India | MERN Stack Developer | Next.js Portfolio | Chat App Developer | Real-time Web App | GitHub Projects by Kalyan | FastAPI | NestJS | Vercel | MongoDB Atlas
+```
 
 ---
 
