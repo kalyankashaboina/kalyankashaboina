@@ -79,7 +79,7 @@ Sleek and responsive portfolio built with **Next.js** and **Material UI**, showc
 - 📄 Sections: About, Projects, Skills, Contact  
 - 🚀 Deployed on Vercel  
 
-📂 [GitHub Repo](https://github.com/kalyankashaboina/kalyan_kashaboina_portfolio)
+📂 [GitHub Repo](https://github.com/kalyankashaboina/kalyan-kashaboina-portfolio)
 
 ---
 
