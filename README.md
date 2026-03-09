@@ -59,16 +59,6 @@ Hi, I'm **Kalyan Kashaboina**, a passionate **Full Stack Developer (MERN)** from
 
 ---
 
-### 🎯 Goals for 2025
-
-- ✅ Master fullstack deployment with **Vercel** and **MongoDB Atlas**
-- ✅ Build 5+ real-world apps using **MERN + Next.js**
-- ✅ Contribute to at least 3 open-source repositories
-- 🚀 Learn and implement **Winston**, **Datadog**, and **ELK** stack for logging
-- 🚀 Explore **NestJS** and **FastAPI** for scalable backend architectures
-
----
-
 ### 🧩 Projects by Kalyan Kashaboina
 
 #### 🌐 [Developer Portfolio Website](https://kalyan-kashaboina-portfolio.vercel.app/)
