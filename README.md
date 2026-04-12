@@ -1,16 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kalyan%20Kashaboina&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Developer%20·%20React%20·%20Next.js%20·%20TypeScript%20·%20Node.js&descAlignY=58&descFontSize=15&descFontColor=c9d1d9" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kalyan%20Kashaboina&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20React%20%7C%20Next.js%20%7C%20TypeScript%20%7C%20Node.js&descAlignY=60&descFontSize=16&descFontColor=c9d1d9" />
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7F77DD&center=true&vCenter=true&width=650&lines=Building+production-grade+web+applications;1%2B+year+professional+full-stack+experience;Published+open-source+npm+author+%E2%80%94+shapeguard;Passionate+about+real-time+%26+scalable+systems)](https://github.com/kalyankashaboina)
+
+</div>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=7F77DD&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%40+Aifa+Labs;1%2B+year+professional+experience;Published+npm+author+%E2%80%94+shapeguard;React+%7C+Next.js+%7C+TypeScript+%7C+Node.js;Building+real-time+%26+production-grade+apps)](https://github.com/kalyankashaboina)
+<div align="center">
 
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kashaboina-kalyan-308495284/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](https://kalyan-kashaboina-portfolio.vercel.app/)
-[![npm · shapeguard](https://img.shields.io/badge/npm-shapeguard-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/shapeguard)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kashaboina-kalyan-308495284/)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kalyan-kashaboina-portfolio.vercel.app/)&nbsp;
+[![npm](https://img.shields.io/badge/npm-shapeguard-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/shapeguard)&nbsp;
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kalyankshaboina07@gmail.com)
 
 ![Profile views](https://komarev.com/ghpvc/?username=kalyankashaboina&style=flat-square&color=7F77DD&label=Profile+views)
@@ -21,123 +27,105 @@
 
 ## 👨‍💻 About Me
 
-Full-Stack Developer with **1+ year of professional experience** at **Aifa Labs**, shipping production-grade web apps across the full stack — React, Next.js, TypeScript, Node.js, MongoDB. I also maintain **[shapeguard](https://www.npmjs.com/package/shapeguard)**, an open-source TypeScript middleware library published on npm.
+> Full-Stack Developer with **1+ year of professional experience** building scalable, production-grade web applications. I maintain **[shapeguard](https://www.npmjs.com/package/shapeguard)** — an open-source TypeScript library published on npm — and specialise in real-time systems, performant frontends, and clean API design.
 
-| | |
-|---|---|
-| 🏢 | **Junior Full-Stack Developer** at Aifa Labs · Jan 2024 – Present |
-| 📦 | Published **[shapeguard](https://www.npmjs.com/package/shapeguard)** on npm · open-source TypeScript library |
-| ⚡ | Improved frontend performance **~20%** via code splitting & lazy loading |
-| 🌐 | Built real-time WebSocket chat systems running in production |
-| 🎓 | MCA · Chaitanya Deemed University · CGPA 8.0 / 10 |
-| 📍 | India · Open to remote opportunities |
+<br/>
+
+<table>
+<tr><td>💼</td><td>1+ year professional full-stack experience</td></tr>
+<tr><td>📦</td><td>Published open-source npm library — <a href="https://www.npmjs.com/package/shapeguard"><strong>shapeguard</strong></a></td></tr>
+<tr><td>⚡</td><td>Improved frontend performance <strong>~20%</strong> via code splitting & lazy loading</td></tr>
+<tr><td>🌐</td><td>Shipped real-time WebSocket systems running in production</td></tr>
+<tr><td>🎓</td><td>MCA · Chaitanya Deemed University · CGPA 8.0 / 10</td></tr>
+<tr><td>📍</td><td>India · Open to remote opportunities</td></tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 **Frontend**
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
-
-
-**State & Data Fetching**
-
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
-![RTK Query](https://img.shields.io/badge/RTK_Query-764ABC?style=flat-square&logo=redux&logoColor=white)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat-square)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 **Backend**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 **Databases**
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square)
-
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white))
 
 **DevOps & Tooling**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Husky](https://img.shields.io/badge/Husky-000000?style=flat-square)
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📦 [shapeguard](https://www.npmjs.com/package/shapeguard) — Published npm Library
+<br/>
 
-> TypeScript middleware for Express.js · FastAPI-style request validation, response shaping & centralised error handling
+### 📦 shapeguard — [npm](https://www.npmjs.com/package/shapeguard) · [GitHub](https://github.com/kalyankashaboina/shapeguard)
 
-[![npm version](https://img.shields.io/npm/v/shapeguard?style=flat-square&color=CB3837&label=npm)](https://www.npmjs.com/package/shapeguard)
-[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github)](https://github.com/kalyankashaboina/shapeguard)
+![npm version](https://img.shields.io/npm/v/shapeguard?style=flat-square&color=CB3837&label=version)
+![license](https://img.shields.io/npm/l/shapeguard?style=flat-square&color=7F77DD)
 
-- Supports **Zod**, **Joi**, and **Yup** schema adapters out of the box
-- Structured **pino** logging · request ID tracing · proto-pollution protection · sensitive-field redaction
-- ~12kb gzip · zero heavy dependencies · full docs · GitHub Actions CI · semantic versioning
+> Open-source TypeScript middleware for Express.js — FastAPI-style request validation, response shaping & centralised error handling.
 
----
+- Schema validation with **Zod**, **Joi**, and **Yup** — plug in whichever you already use
+- Built-in request ID tracing, structured logging, and sensitive-field redaction
+- ~12kb gzip · zero heavy dependencies · full documentation · semantic versioning
 
-### 💬 [Relay-Chat](https://chatty-navy.vercel.app/) — Real-Time Chat App
+<br/>
 
-> React 18 · TypeScript · Socket.IO · Redux Toolkit · Docker · CI/CD
+### 💬 Relay-Chat — [Live](https://chatty-navy.vercel.app/) · [GitHub](https://github.com/kalyankashaboina/Chatty)
 
-[![Live](https://img.shields.io/badge/Live_Demo-1D9E75?style=flat-square&logo=vercel&logoColor=white)](https://chatty-navy.vercel.app/)
-[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github)](https://github.com/kalyankashaboina/Chatty)
+![tech](https://img.shields.io/badge/React_18-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![tech](https://img.shields.io/badge/Socket.IO-real--time-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![tech](https://img.shields.io/badge/Docker-containerised-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-- Accessible UI with **Radix UI**, **shadcn/ui**, **Tailwind CSS**, and **Framer Motion** animations
-- JWT auth · protected routes via React Router v6 · user session management
-- Containerised with **Docker + nginx** · **GitHub Actions CI/CD** · Husky + ESLint + Prettier enforced
+> Full-stack real-time messaging platform built with React 18, TypeScript, Socket.IO, and Node.js.
 
----
+- Instant messaging with WebSocket · JWT authentication · protected routing
+- Containerised with **Docker + nginx** · GitHub Actions CI/CD pipeline
+- Fully responsive across all devices
 
-### 💰 [FinTrackPro](https://fintrackpro-three.vercel.app/) — PWA Finance Tracker
+<br/>
 
-> React 18 · TypeScript · Redux Toolkit · React Query · Workbox · IndexedDB
+### 💰 FinTrackPro — [Live](https://fintrackpro-three.vercel.app/) · [GitHub](https://github.com/kalyankashaboina/FinTrackPro)
 
-[![Live](https://img.shields.io/badge/Live_Demo-1D9E75?style=flat-square&logo=vercel&logoColor=white)](https://fintrackpro-three.vercel.app/)
-[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github)](https://github.com/kalyankashaboina/FinTrackPro)
+![tech](https://img.shields.io/badge/PWA-offline--first-1D9E75?style=flat-square)
+![tech](https://img.shields.io/badge/Lighthouse-95%2B-F4B400?style=flat-square&logo=googlechrome&logoColor=white)
 
-- Income, expense, borrow/lend tracking across 20+ smart categories
-- **Offline-first** via IndexedDB + Workbox service worker · background sync · sub-500ms repeat loads
-- Google Sign-In · CSV export · dark mode · **Lighthouse score 95+**
-- Monitored with **Sentry** and **Datadog RUM** in production
+> Progressive Web App for personal finance — income, expense, and borrow/lend tracking across 20+ categories.
 
----
+- **Offline-first** architecture · works without internet · background sync
+- Google Sign-In · CSV export · dark mode · **Lighthouse 95+** across all metrics
+- Sub-500ms repeat load times · one-click home screen install
 
-### 🌐 [Portfolio Website](https://kalyan-kashaboina-portfolio.vercel.app/)
+<br/>
 
-> React.js · SCSS · Vercel
+### 🌐 Portfolio — [Live](https://kalyan-kashaboina-portfolio.vercel.app/) · [GitHub](https://github.com/kalyankashaboina/kalyan-kashaboina-portfolio)
 
-[![Live](https://img.shields.io/badge/Live_Demo-1D9E75?style=flat-square&logo=vercel&logoColor=white)](https://kalyan-kashaboina-portfolio.vercel.app/)
-[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github)](https://github.com/kalyankashaboina/kalyan-kashaboina-portfolio)
-
----
-
-## 💼 Experience
-
-**Junior Full-Stack Developer — Aifa Labs** &nbsp;·&nbsp; `Jan 2024 – Present`
-
-- Developed and maintained multiple responsive web apps using React, Next.js, TypeScript, and Node.js serving production users
-- Built and integrated RESTful APIs with Express.js and MongoDB; modelled schemas using Mongoose for efficient data access
-- Implemented WebSocket communication for real-time chat, reducing message-delivery latency significantly
-- Boosted frontend performance ~20% via code splitting and lazy loading, improving Time-to-Interactive
-- Managed state with Redux Toolkit and RTK Query, streamlining API caching and reducing redundant network calls
-- Collaborated in an Agile team of 5 using GitHub PRs, code reviews, and sprint planning
+> Personal developer portfolio built with React.js and SCSS · deployed on Vercel · fully responsive.
 
 ---
 
@@ -145,16 +133,11 @@ Full-Stack Developer with **1+ year of professional experience** at **Aifa Labs*
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kalyankashaboina&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7F77DD&icon_color=1D9E75&text_color=c9d1d9" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalyankashaboina&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7F77DD&text_color=c9d1d9" height="170"/>
+<img src="https://streak-stats.demolab.com/?user=kalyankashaboina&theme=tokyonight&hide_border=true&background=0d1117&ring=7F77DD&fire=D85A30&currStreakLabel=7F77DD&sideLabels=c9d1d9&dates=888" />
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=kalyankashaboina&theme=tokyonight&hide_border=true&background=0d1117&ring=7F77DD&fire=D85A30&currStreakLabel=7F77DD&sideLabels=c9d1d9&dates=c9d1d9" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kalyankashaboina&bg_color=0d1117&color=7F77DD&line=1D9E75&point=D85A30&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kalyankashaboina&bg_color=0d1117&color=7F77DD&line=1D9E75&point=D85A30&hide_border=true&area=true&area_color=7F77DD" />
 
 </div>
 
@@ -162,10 +145,13 @@ Full-Stack Developer with **1+ year of professional experience** at **Aifa Labs*
 
 <div align="center">
 
-**Open to full-time roles and freelance projects**
+### Let's build something great together
 
-[![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kashaboina-kalyan-308495284/)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kashaboina-kalyan-308495284/)
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kalyan-kashaboina-portfolio.vercel.app/)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 
 </div>
