@@ -27,13 +27,13 @@
 
 ## About Me
 
-Full Stack Developer with **1+ year of professional experience** shipping production-grade web applications — primarily in **React, TypeScript, and Node.js**. I architect for scale, write clean APIs, and care about how the product feels to use, not just how the code looks.
+Full Stack Developer with **2 year of professional experience** shipping production-grade web applications — primarily in **React, TypeScript, and Node.js**. I architect for scale, write clean APIs, and care about how the product feels to use, not just how the code looks.
 
 I maintain **[shapeguard](https://www.npmjs.com/package/shapeguard)**, an open-source Express.js middleware library published on npm. Outside of work I'm actively **learning AI/ML tooling, agent workflows, and automation patterns** to deepen my engineering capabilities and product thinking.
 
 | | |
 |---|---|
-| **Experience** | 1+ year professional full-stack development |
+| **Experience** | 2 year professional full-stack development |
 | **Open Source** | Published npm author — [shapeguard](https://www.npmjs.com/package/shapeguard) |
 | **Architecture** | Micro-frontend (Module Federation) in production |
 | **Performance** | ~20% frontend improvement via code splitting & lazy loading |
