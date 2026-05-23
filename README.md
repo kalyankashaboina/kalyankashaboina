@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kalyan%20Kashaboina&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20React%20%7C%20Next.js%20%7C%20TypeScript%20%7C%20Node.js&descAlignY=60&descFontSize=16&descFontColor=c9d1d9" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kalyan%20Kashaboina&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=30" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7F77DD&center=true&vCenter=true&width=650&lines=Building+production-grade+web+applications;1%2B+year+professional+full-stack+experience;Published+open-source+npm+author+%E2%80%94+shapeguard;Passionate+about+real-time+%26+scalable+systems)](https://github.com/kalyankashaboina)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7F77DD&center=true&vCenter=true&width=650&lines=Building+production-grade+web+applications;1%2B+years+shipping+React+%26+Node.js;Learning+AI%2FML+tooling+%26+agent+workflows&repeat=false)](https://kalyan-yadav-kashaboina.vercel.app/)
 
 </div>
 
@@ -15,7 +15,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kashaboina-kalyan-308495284/)&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://kalyan-kashaboina-portfolio.vercel.app/)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://kalyan-yadav-kashaboina.vercel.app/)&nbsp;
 [![shapeguard](https://img.shields.io/badge/npm-shapeguard-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/shapeguard)&nbsp;
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kalyankshaboina07@gmail.com)
 
@@ -27,9 +27,9 @@
 
 ## About Me
 
-Full Stack Developer with **2 year of professional experience** shipping production-grade web applications — primarily in **React, TypeScript, and Node.js**. I architect for scale, write clean APIs, and care about how the product feels to use, not just how the code looks.
+Full Stack Developer with **2 year of professional experience** shipping production-grade web applications — primarily in **React, TypeScript, and Node.js**. I architect for scale, write clean APIs, and focus on maintainability and performance at every level.
 
-I maintain **[shapeguard](https://www.npmjs.com/package/shapeguard)**, an open-source Express.js middleware library published on npm. Outside of work I'm actively **learning AI/ML tooling, agent workflows, and automation patterns** to deepen my engineering capabilities and product thinking.
+I maintain **[shapeguard](https://www.npmjs.com/package/shapeguard)**, an open-source Express.js middleware library published on npm. Outside of work I'm actively **learning AI/ML tooling, agent workflows, and building with LLMs** to accelerate development velocity.
 
 | | |
 |---|---|
@@ -248,7 +248,7 @@ Things I'm working towards over the next 6–12 months:
 **Open to full-time, contract, and remote opportunities**
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kashaboina-kalyan-308495284/)&nbsp;
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://kalyan-kashaboina-portfolio.vercel.app/)&nbsp;
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://kalyan-yadav-kashaboina.vercel.app/)&nbsp;
 [![Email](https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kalyankshaboina07@gmail.com)
 
 <br/>
